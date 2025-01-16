@@ -12,7 +12,7 @@
   <ul>
     <li>Ketua: <a href="">Syaiful Fathur Rozaq</a></li>
     <li>Anggota 1: <a href="">Muhammad Rifki Fahrosy</a></li>
-    <li>Anggota 2: <a href="">Farhandika Nurrohman</a></li>
+    <li>Anggota 2: <a href="">Farhandhika Nurrohman</a></li>
   </ul>
 </ul>
 
