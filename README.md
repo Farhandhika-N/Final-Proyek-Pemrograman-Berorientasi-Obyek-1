@@ -17,10 +17,12 @@
 </ul>
 
 ## Judul Studi Kasus
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Sistem Pemesanan Makanan.</p>
 
-## Penjelasan Studi Kasus
-<p>Lorem ipsum sir dolor amet.</p>
+## Penjelasan Studi Kasus3
+<p>Proyek ini adalah aplikasi untuk memesan makanan secara online. Sistem ini memiliki dua peran utama:</p>
+<p>Admin: Dapat mengelola menu makanan, melihat laporan pesanan, dan mengelola status pesanan.</p>
+<p>Customer (User): Dapat melihat menu makanan, melakukan pemesanan.</p>
 
 ## Penjelasan 4 Pilar OOP dalam Studi Kasus
 
